@@ -1,0 +1,22 @@
+body {
+    background-color: #3f3f3f;
+}
+#in1 {
+    width: 250px;
+    height: 30px;
+    font-size: 15px;
+}
+#btn1 {
+    width: 200px;
+    height: 37px;
+    font-size: 16px;
+}
+#randomlength, #out1 {color:white;}
+#manx > div {
+    text-align: center;
+}
+#manx > div > p{
+    display: inline-block;
+    font-size: 30px;
+    color: white;
+}
